@@ -23,14 +23,14 @@
 
 ## Sobre mim
 
-Sou QA e gosto de transformar necessidade em processo, automacao e ferramenta util. Tenho interesse especial em qualidade de software, testes, produtividade e projetos praticos, seja na web, no desktop ou em fluxos internos.
+Sou QA e gosto de transformar necessidade em processo, automação e ferramentas úteil. Tenho interesse especial em qualidade de software, testes, produtividade e projetos práticos, seja na web, no desktop ou em fluxos internos.
 
 Atualmente, meu foco gira em torno de:
 
-- automacao com Python
+- automação com Python
 - testes e experimentos com Playwright e Cypress
 - qualidade com foco em confiabilidade e produtividade
-- projetos praticos para uso real
+- projetos práticos para uso real
 
 ---
 
