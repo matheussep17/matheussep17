@@ -1,11 +1,11 @@
 <h1 align="center">Matheus Torres Ribeiro</h1>
 
 <p align="center">
-  Desenvolvedor focado em automacao, Python, testes e projetos que resolvem problemas reais.
+  QA focado em automacao, Python, Cypress, Playwright e projetos que resolvem problemas reais.
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2800&pause=700&color=2F81F7&center=true&vCenter=true&width=700&lines=Automacao+com+Python;Testes+e+fluxos+com+Playwright;Projetos+web%2C+desktop+e+ideias+que+saem+do+papel" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2800&pause=700&color=2F81F7&center=true&vCenter=true&width=700&lines=Automacao+com+Python;Testes+e+fluxos+com+Playwright+e+Cypress;Qualidade+de+software+com+foco+em+resultado" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -14,6 +14,7 @@
   </a>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
+  <img src="https://img.shields.io/badge/Cypress-69D3A7?style=for-the-badge&logo=cypress&logoColor=111" alt="Cypress" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
@@ -22,14 +23,14 @@
 
 ## Sobre mim
 
-Sou um desenvolvedor que gosta de transformar necessidade em ferramenta util. Tenho interesse especial em automacao, testes, produtividade e projetos praticos, seja na web, no desktop ou em fluxos internos.
+Sou QA e gosto de transformar necessidade em processo, automacao e ferramenta util. Tenho interesse especial em qualidade de software, testes, produtividade e projetos praticos, seja na web, no desktop ou em fluxos internos.
 
 Atualmente, meu foco gira em torno de:
 
 - automacao com Python
-- testes e experimentos com Playwright
-- interfaces e ferramentas para uso real
-- projetos pessoais, estudos e iniciativas de comunidade
+- testes e experimentos com Playwright e Cypress
+- qualidade com foco em confiabilidade e produtividade
+- projetos praticos para uso real
 
 ---
 
@@ -47,17 +48,8 @@ Atualmente, meu foco gira em torno de:
   <a href="https://github.com/matheussep17/playwright-actions">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=matheussep17&repo=playwright-actions&theme=transparent" alt="playwright-actions" />
   </a>
-  <a href="https://github.com/matheussep17/MocidadeKadosh">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=matheussep17&repo=MocidadeKadosh&theme=transparent" alt="MocidadeKadosh" />
-  </a>
-</p>
-
-<p>
-  <a href="https://github.com/matheussep17/Circuitos">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=matheussep17&repo=Circuitos&theme=transparent" alt="Circuitos" />
-  </a>
-  <a href="https://github.com/matheussep17/JSGuanabara">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=matheussep17&repo=JSGuanabara&theme=transparent" alt="JSGuanabara" />
+  <a href="https://github.com/matheussep17/Igreja">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=matheussep17&repo=Igreja&theme=transparent" alt="Igreja" />
   </a>
 </p>
 
@@ -74,7 +66,7 @@ Atualmente, meu foco gira em torno de:
 
 ## Bora construir
 
-Se voce curte automacao, produtividade, testes ou projetos que ajudam gente de verdade, provavelmente vamos nos dar bem.
+Se voce curte automacao, qualidade, testes e projetos que ajudam gente de verdade, provavelmente vamos nos dar bem.
 
 <p align="center">
   <a href="https://github.com/matheussep17">
