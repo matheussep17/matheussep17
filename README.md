@@ -50,17 +50,21 @@ Atualmente, meu foco gira em torno de:
   </a>
 </p>
 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/matheussep17/Igreja"><strong>Igreja</strong></a><br />
-      Projeto em Python 2 voltado para automação e uso prático em contexto real.<br /><br />
-      <img src="https://img.shields.io/badge/Python%202-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python 2" />
-      <img src="https://img.shields.io/badge/Automa%C3%A7%C3%A3o-1f6feb?style=flat-square" alt="Automacao" />
-      <img src="https://img.shields.io/badge/Desktop_App-444444?style=flat-square" alt="Desktop App" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/matheussep17/Igreja">
+    <img src="https://img.shields.io/badge/Projeto%20em%20Destaque-Igreja-1f6feb?style=for-the-badge&logo=github&logoColor=white" alt="Igreja" />
+  </a>
+</p>
+
+<p align="center">
+  Projeto em Python 2 voltado para automação e uso prático em contexto real.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python%202-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python 2" />
+  <img src="https://img.shields.io/badge/Automa%C3%A7%C3%A3o-1f6feb?style=flat-square" alt="Automacao" />
+  <img src="https://img.shields.io/badge/Desktop_App-444444?style=flat-square" alt="Desktop App" />
+</p>
 
 ---
 
