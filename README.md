@@ -48,13 +48,10 @@ Atualmente, meu foco gira em torno de:
   <a href="https://github.com/matheussep17/playwright-actions">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=matheussep17&repo=playwright-actions&theme=transparent" alt="playwright-actions" />
   </a>
+  <a href="https://github.com/matheussep17/Igreja">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=matheussep17&repo=Igreja&theme=transparent" alt="Igreja" />
+  </a>
 </p>
-
-### Igreja
-
-Projeto em Python 2 voltado para um contexto real de uso, com foco em automacao e utilidade pratica.
-
-`Projeto privado, por isso o card nao aparece publicamente no perfil.`
 
 ---
 
